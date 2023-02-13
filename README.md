@@ -1,8 +1,8 @@
 # Cross_Lingual_Suicidal_Oriented_Word_Embedding_EMNLP_Findings_2020
 - [Daeun Lee](https://sites.google.com/view/daeun-lee), Soyung Park, [Jiwon Kang](https://ji1kang.github.io/), [Daejin Choi](https://daejin-choi.github.io/), [Jinyoung Han](https://sites.google.com/site/jyhantop/), Cross-Lingual Suicidal-Oriented Word Embedding toward Suicide Prevention, EMNLP findings 2020.
-- **[Project page](https://dsail-skku.github.io/Cross-Lingual-Suicidal-Embedding/](https://sites.google.com/view/daeun-lee/dataset/EMNLP-Findings-2020?authuser=0)**
+- [Project page](https://dsail-skku.github.io/Cross-Lingual-Suicidal-Embedding/](https://sites.google.com/view/daeun-lee/dataset/EMNLP-Findings-2020?authuser=0)
 - Overall Architecture
-![img](https://lh3.googleusercontent.com/TQ6xFAHIXZQ-2rEianq9538wpkhjIqW_uOjELffAJnPt6jwLHJq2PzN_0ZHnUYez_ofg_DWm8LONrlcafVpW3G_Xhzi6hozBfsDFWYj2mIniWM2MyOfVtKEI-HGN9_4LiQ=w1280)
+<img src="[이미지 URL](https://lh3.googleusercontent.com/TQ6xFAHIXZQ-2rEianq9538wpkhjIqW_uOjELffAJnPt6jwLHJq2PzN_0ZHnUYez_ofg_DWm8LONrlcafVpW3G_Xhzi6hozBfsDFWYj2mIniWM2MyOfVtKEI-HGN9_4LiQ=w1280)">
 
 # Dataset
 - Suicide Dictionay 
